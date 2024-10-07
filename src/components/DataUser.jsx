@@ -1,5 +1,5 @@
 // variable nav tadinya mau masukin deskripsi nav pake array :"
-export const [user, nav] = [{
+export const user = [{
     id  : '1',
     name : 'yudan',
     profesi : 'programmer',
